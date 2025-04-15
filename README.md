@@ -232,7 +232,7 @@ openpyxl	            | Excel support for .xlsx files ;
 
 git clone https://github.com/S-cloud-cloud/Global-Inflation-Analysis-n-Forecasting.git
 <br>
-cd Global-Inflation-Analysis
+cd Global-Inflation-Analysis-n-Forecasting
 <br>
 jupyter notebook
 
