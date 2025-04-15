@@ -82,32 +82,32 @@ Powered by Python | Forecasted with ARIMA | Covers 50+ Years | prediction for a 
 
 <p align="center">
   <img src="images\Global_Inflation_heatmap.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>Avg hcpia Global Inflation heatmap 2023</em>
 </p>
 
 <p align="center">
   <img src="images\Countries_with_highest_inflation_rate_in_2023.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>Countries_with_highest_inflation_rate_in_2023</em>
 </p>
 
 <p align="center">
   <img src="images\2023_countries_with_lowest_inflation_rate.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>countries_with_lowest_inflation_rate_in_2023</em>
 </p>
 
 <p align="center">
   <img src="images\Global_inflation vs rolling avg smoothed global inflation.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>Global_inflation vs rolling avg smoothed global inflation</em>
 </p>
 
 <p align="center">
   <img src="images\Global_Inflation_forecast.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>Global_Inflation_forecast</em>
 </p>
 
 <p align="center">
   <img src="images\YOY pct change.png" width="600"/><br>
-  <em>Global Inflation Trend Over Years</em>
+  <em>Year over Year percentage change in avg Inflation rate</em>
 </p>
 
 ---
