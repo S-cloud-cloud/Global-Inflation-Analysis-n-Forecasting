@@ -1,0 +1,56 @@
+Basic Terms and concepts
+Inflation:
+the general level of prices for goods and services rises over time, reducing the purchasing power of money.
+a loaf of bread costs ₹50 today and ₹55 next year, that’s a 10% inflation rate
+( (55-50) / 50 ) * 100 = 10 % ( 5 rs is 10% of 50 -> price increased = 10%)
+
+ Inflation Terms:
+1️⃣ Consumer Price Index (CPI)
+measures the average change in prices of a fixed basket of consumer goods/services
+most common metric for measuring inflation.
+CPI=(Cost of Basket in Current Year/Cost of Basket in Base Year)​×100
+f CPI increases from 100 to 110, inflation is 10%.
+
+2️⃣ Core Inflation vs. Headline Inflation
+Headline Inflation: Measures inflation including volatile food & energy prices.
+
+
+Core Inflation: Excludes food & energy prices to show underlying inflation trends.
+3️⃣ Producer Price Index (PPI)
+Similar to CPI but tracks wholesale prices (prices producers receive).
+
+
+If PPI rises, it often means CPI will rise soon (because producers pass costs to consumers).
+4️⃣ Hyperinflation
+Extreme, rapid inflation (e.g., Zimbabwe 2008: Prices doubled every day!).
+
+
+Usually caused by excessive money printing.
+5️⃣ Stagflation
+Stagnant economic growth + High Inflation.
+
+
+Example: 1970s Oil Crisis (economic slowdown + rising prices).
+
+stagflation is an unusual and dangerous economic situation where:
+Inflation is high (prices of goods/services keep rising).
+Economic growth is stagnant or slow (GDP isn’t growing much).
+Unemployment is high (people are losing jobs instead of getting new ones).
+
+This is bad because normally, high inflation happens when the economy is booming (high demand = rising prices). But in stagflation, prices rise even when the economy is struggling and people are out of jobs.
+
+Normally, to fight inflation, central banks increase interest rates. But in stagflation, that makes unemployment even worse, leading to a tough economic dilemma.
+
+6️⃣ Interest Rates & Inflation
+Central Banks (like RBI, Fed) control inflation by adjusting interest rates.
+If inflation is high, they increase interest rates → loans become expensive → people spend less → inflation drops.
+If inflation is too low, they cut interest rates → borrowing/spending increases → economy grows.
+
+Future scope to how It Connects to Our Project
+In our inflation dataset, we can check if there were periods of high inflation + slow growth for certain countries.
+We can also visualize oil price spikes & their impact on inflation.
+1️⃣ CPI Analysis: We’ll examine inflation trends using CPI data.
+ 2️⃣ Country Comparisons: Identify nations with the highest & lowest inflation.
+ 3️⃣ Time Series Analysis: Detect patterns (seasonal trends, economic cycles).
+ 4️⃣ Policy Implications: See how inflation correlates with interest rate changes.
+
