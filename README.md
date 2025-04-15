@@ -230,7 +230,7 @@ openpyxl	            | Excel support for .xlsx files ;
 ---
 <a name="how-to-run"></a>How to Run
 
-git clone https://github.com/yourusername/Global-Inflation-Analysis.git
+git clone https://github.com/S-cloud-cloud/Global-Inflation-Analysis-n-Forecasting.git
 <br>
 cd Global-Inflation-Analysis
 <br>
