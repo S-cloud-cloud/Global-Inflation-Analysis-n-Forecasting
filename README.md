@@ -64,7 +64,7 @@ Powered by Python | Forecasted with ARIMA | Covers 50+ Years | prediction for a 
 - Volatility patterns and event correlations.
 
 ---
-## <a name="forecasting-approach"></a>🔮 Forecasting Approach
+## <a name="forecasting-approach"></a> Forecasting Approach
 
 - **Model Used**: ARIMA (1,1,1)
 - **Target Variable**: `Global_avg_inflation`
