@@ -214,12 +214,12 @@ To load a different sheet, simply change "hcpi_a" to the relevant sheet name.
 <hr>
 <h3 align='center'>Library	Purpose :</h3>
 
-pandas	                | Data manipulation
-numpy	                | Numerical computing
-matplotlib & seaborn	| Static visualizations
-plotly	                | Interactive graphs
-statsmodels	            | Statistical modeling (ARIMA)
-openpyxl	            | Excel support for .xlsx files
+pandas	                | Data manipulation ;
+numpy	                | Numerical computing ;
+matplotlib & seaborn	| Static visualizations ;
+plotly	                | Interactive graphs ;
+statsmodels	            | Statistical modeling (ARIMA) ;
+openpyxl	            | Excel support for .xlsx files ;
 
 <hr>
 <h3>Setting Up VS Code for Analytics</h3> 
@@ -231,7 +231,9 @@ openpyxl	            | Excel support for .xlsx files
 <a name="how-to-run"></a>How to Run
 
 git clone https://github.com/yourusername/Global-Inflation-Analysis.git
+<br>
 cd Global-Inflation-Analysis
+<br>
 jupyter notebook
 
 ---
